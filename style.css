@@ -20,16 +20,3 @@ section{
     transition: 0.3s;
 }
 
-/* efeito ao passar o mouse */
-section:hover{
-    transform: translateY(-5px);
-}
-
-footer{
-    color: white;
-    text-align:center;
-    font-style: italic;
-    margin-top: 20px;
-    
-
-}
