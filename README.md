@@ -1,19 +1,82 @@
-# Portfólio - Eduardo César Camargo dos Reis
+# 💻 Portfólio - Eduardo César Camargo dos Reis
 
-Este repositório foi criado como parte de um desafio acadêmico com o objetivo de desenvolver habilidades em GitHub, versionamento e publicação de projetos.
+Bem-vindo ao meu portfólio! 🚀  
+Este projeto foi desenvolvido com o objetivo de apresentar meus estudos e projetos na área de Ciência da Computação.
 
-## 📌 Conteúdo
-- Projetos acadêmicos
-- Projetos pessoais
-- Documentação
+---
 
-## 💻 Tecnologias utilizadas
-- HTML
-- Git
-- GitHub
+## 📌 Sobre
 
-## 🌐 Acesso ao site
-(Depois você coloca o link do GitHub Pages aqui)
+Sou estudante de **Ciência da Computação** e estou desenvolvendo habilidades em desenvolvimento web, com foco em:
 
-## 📎 Autor
-Eduardo César Camargo dos Reis
+- HTML5
+- CSS3
+- JavaScript
+- Angular
+
+---
+
+## 🛠️ Projetos
+
+### 🌐 Site pessoal
+Acesse aqui:  
+👉 https://eduardocreis-ceub.github.io/Dudu/
+
+---
+
+### 📱 Aplicação Angular (SPA)
+- CRUD completo  
+- Navegação entre páginas  
+- Formulários  
+- Acessibilidade  
+- Testes  
+- Uso de RxJS  
+
+---
+
+### 🧮 Calculadora Web
+- Desenvolvida com HTML, CSS e JavaScript  
+- Interface interativa  
+- Operações básicas  
+
+---
+
+### ⏰ Projeto Hora do Dia
+- Exibe a hora em tempo real  
+- Layout muda conforme o período do dia  
+- Manipulação dinâmica com JavaScript  
+
+---
+
+### 🎂 Verificador de Idade
+- Cálculo automático de idade  
+- Validação de dados  
+- Exibição personalizada de resultados  
+- Manipulação do DOM  
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📷 Preview
+
+*(Você pode colocar um print do seu site aqui depois)*
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/eduardocreis-ceub  
+- Site: https://eduardocreis-ceub.github.io/Dudu/
+
+---
+
+## 📄 Licença
+
+Este projeto é apenas para fins educacionais.
