@@ -20,3 +20,9 @@ section{
     transition: 0.3s;
 }
 
+footer{ 
+    color: white; 
+    text-align:center; 
+    font-style: italic; 
+    margin-top: 20px; 
+}
