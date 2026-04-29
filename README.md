@@ -64,19 +64,10 @@ Acesse aqui:
 
 ---
 
-## 📷 Preview
-
-*(Você pode colocar um print do seu site aqui depois)*
-
----
-
 ## 📫 Contato
 
 - GitHub: https://github.com/eduardocreis-ceub  
 - Site: https://eduardocreis-ceub.github.io/Dudu/
+- eduardo.reis200725@gmail.com
+- Linkedin:http://www.linkedin.com/in/eduardo-césar-camargo-dos-reis-a22754267
 
----
-
-## 📄 Licença
-
-Este projeto é apenas para fins educacionais.
