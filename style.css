@@ -1,28 +1,69 @@
-body{
-    background: linear-gradient(135deg, #4a4fda, #4b53c5);
+body {
+    background: linear-gradient(135deg, #4a4fda, #6c63ff);
     font: normal 15pt Arial;
     margin: 0;
 }
 
-header{
+/* Título principal */
+header h1 {
     text-align: center;
     color: white;
-    margin-top: 30px;
+    margin-top: 40px;
+    font-size: 28px;
 }
 
-section{
+/* Card principal */
+section {
     background: white;
-    border-radius: 15px;
-    padding: 20px;
-    width: 400px;
-    margin: 30px auto;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    padding: 25px;
+    width: 420px;
+    margin: 40px auto;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
     transition: 0.3s;
 }
 
-footer{ 
-    color: white; 
-    text-align:center; 
-    font-style: italic; 
-    margin-top: 20px; 
+section:hover {
+    transform: translateY(-8px) scale(1.01);
+}
+
+/* Títulos */
+h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+h3 {
+    color: #555;
+}
+
+/* Texto */
+p {
+    color: #444;
+    line-height: 1.5;
+}
+
+/* Lista de projetos mais organizada */
+.projetos p {
+    margin: 10px 0;
+}
+
+/* Link estilizado */
+a {
+    color: #6c63ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin-top: 20px;
+    opacity: 0.8;
 }
